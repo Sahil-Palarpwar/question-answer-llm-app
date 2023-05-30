@@ -1,0 +1,6 @@
+gradio
+langchain
+faiss-cpu
+pypdf
+openai
+tiktoken
