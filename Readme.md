@@ -1,7 +1,7 @@
 # Hugging Face Space link: https://huggingface.co/spaces/sahilp21/question_answer_app
 
-Please add your Open AI API key in the API key section.
-Please use the file course.pdf - "This is a file that includes one of my graduate course syllabus and administrative details like midterms/projects etc." 
+<br>Please add your Open AI API key in the API key section.<br/>
+<br>Please use the file course.pdf - "This is a file that includes one of my graduate course syllabus and administrative details like midterms/projects etc." <br/>
 <br>Example prompts:
 "What is the name of course?"
 "Do we have midterms?"
